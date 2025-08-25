@@ -1,6 +1,7 @@
 ## Kurulum
 
 1. Repoyu klonlayın:
+
 ```bash
 git clone https://github.com/<USERNAME>/vue-survey-app.git
 cd vue-survey-app
